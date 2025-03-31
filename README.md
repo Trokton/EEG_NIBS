@@ -125,7 +125,7 @@ PCB Layout, 3D Case Design, and Build Photos are included in assets/.
 
 👤 Author
 
-Developed by [Your Name], psychologist & AI enthusiast, diving into DIY neurotech to build accessible and intelligent brain interfaces.
+Developed by Michael Roehrig, psychologist & AI enthusiast, diving into DIY neurotech to build accessible and intelligent brain interfaces.
 
 Inspired by the incredible work of Prof. Roi Cohen Kadosh and open science communities.
 
@@ -141,6 +141,3 @@ Interested in collaboration, replication, or feedback? Let’s connect via Linke
 
 Open-source for research and educational use. Use responsibly. Not intended for clinical/medical use.
 
-⸻
-
-Would you like me to format this as a downloadable .md file or directly drop it into your GitHub structure?
