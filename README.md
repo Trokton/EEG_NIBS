@@ -1,8 +1,5 @@
 # EEG_NIBS
 
-Absolutely! Here’s a detailed README.md draft for your GitHub project, structured for clarity, professionalism, and scientific appeal:
-
-⸻
 
 🧠 Closed-Loop EEG & 4-Channel tACS/tDCS Neurostimulation System
 
